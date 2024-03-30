@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/**************************************************************************/
+/***************************** Customize CSS ******************************/
+/**************************************************************************/
+
+#footer{
+  position: fixed;
+  width: 100%;
+  left: 0px;
+  bottom: 35px;
+}
+.cover{
+  width: 50px;
+  height: 50px;
+  border: solid 2px #71366b;
+  position: fixed;
+  margin: 0px 0px 0px 100px;
+  border-radius: 10px;
+  text-align: center;
+  line-height: 50px;
+  color: #000000;
+  background-color: #4aab67;
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.avatar{
+  width: "60px";
+  height: "60px";
+  border-radius: "30px";
+  background: "#FFAABB",
+}
+
+.template{
+  width: 300px;
+  height: 300px;
+}
+
+.mine{
+  /* width: 180px; */
+  width: 100%;
+  /* height: 180px; */
+}
+
+.Monospaced{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+/*限制高度的容器*/
+.limited{
+  max-height: 480px;
+  min-height: 480px;
+  width: 100%;
+  overflow: auto;
+}
+
+.pr-2{
+  margin-right: 15px;
+}
+
+
+.pl-2{
+  margin-left: 15px;
+}

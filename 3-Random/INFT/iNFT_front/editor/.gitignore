@@ -1,0 +1,11 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+yarn.lock
+package-lock.json
+
+node_modules
+build
