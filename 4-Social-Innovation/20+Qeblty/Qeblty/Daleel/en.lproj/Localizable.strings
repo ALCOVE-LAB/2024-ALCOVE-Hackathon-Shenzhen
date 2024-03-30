@@ -1,0 +1,628 @@
+
+/*确认*/
+"confirm" = "Confirm";
+/*取消*/
+"cancel" = "Cancel";
+/*年*/
+"year" = "Year";
+/*月*/
+"month" = "Month";
+/*日*/
+"day" = "Day";
+/*同意隐私协议（注册）*/
+"i_agree_to_the_user_service_agreement_and_privacy_policy_terms" = "I agree to the User Service Agreement and Privacy Policy Terms";
+/*同意隐私协议 部分（注册）*/
+"i_agree_to_the" = "I agree to the";
+/*同意隐私协议 部分（注册）*/
+"user_service_agreement" = "User Service Agreement";
+/*同意隐私协议 部分（注册）*/
+"and" = "and";
+/*同意隐私协议 部分（注册）*/
+"privacy_policy_terms" = "Privacy Policy Terms";
+/*同意隐私协议（注册）*/
+"you_need_to_agree_agreement" = "You need to agree to the User Service Agreement and Privacy Policy Terms.";
+/*请输入手机号*/
+"please_enter_your_phone_number" = "Please enter your phone number";
+/*请输入密码*/
+"enter_password" = "Please enter password";
+/*登陆*/
+"sign_in" = "Log in";
+/*请输入你的手机号,如果你是新用户，将完成注册流程*/
+"login_tip_phone_number" = "Please enter your phone number, if you are a new user, you need to complete the registration first.";
+/*XX手机号已经注册过，请填入密码*/
+"number_is_registered_please_login" = "%@ %@ Already registered, please enter the password";
+/*注册*/
+"sign_up" = "Sign Up";
+/*XX手机号还没有注册 请完成注册*/
+"sign_up_tip" = "%@ %@ Haven't registered, please complete the registration";
+/*请输入验证码*/
+"please_input_code" = "Please Input The Code";
+/*请填入密码*/
+"please_input_password" = "Please Set Your Password";
+/*获取*/
+"get" = "Get";
+/*错误密码格式*/
+"password_wrong_title" = "Wrong Password Format";
+/*密码格式*/
+"password_wrong_content" = "The password consists of 4 to 8 digits and letters, and can not contain special symbols.";
+/*验证码发送到XX*/
+"verification_code_sent_to" = "Already Send Verification Code to: %@";
+/*选择国家和地区*/
+"select_country_and_region" = "Select Country and Region";
+/*祈祷*/
+"prayers" = "Prayers";
+/*Awards*/
+"awards" = "Awards";
+/*更多*/
+"more" = "More >>";
+/*签到*/
+"check_in" = "Check In";
+/*Not remind*/
+"remind_no" = "Not remind";
+/*静音*/
+"remind_mute" = "Mute";
+/*祈祷完成*/
+"pray_complete" = "Prayer Completed";
+/*获得勋章*/
+"get_medals" = "Badge Received";
+/*再签到XX天获取一个勋章*/
+"get_medal_reward" = "Come back for another %ld days to get a medal reward";
+/*签到成功之后的内容*/
+"check_in_detail" = "Complete the prayers on a consistent basis to earn the badge";
+/*分享给你的朋友*/
+"share_to_freiends" = "Share to Friends";
+/*To Set*/
+"to_set" = "To Set";
+/*为 Qeblty 设置位置权限以获取更多的祈祷时间*/
+"set_location_tip" = "Set location permissions to obtain more prayer time";
+/*Do [s]  prayers for [i]  days in a row*/
+"do_prayer_for_days_in_a_row_format" = "Do %@ prayers for %ld days in a row";
+/*Please make your phone fit in the calibration figure.*/
+"pls_calibration_compass_tip" = "Please make your phone fit in the calibration figure.";
+/*Calibrate Qibla*/
+"calibrate_qibla" = "Calibrate Qibla";
+/*Qibla*/
+"qibla" = "Qibla";
+/*Your device needs to be calibrated to use Qibla*/
+"calibrate_device" = "Please Calibrate Your Phone";
+/*To Calibrate*/
+"to_calibrate" = "To Calibrate";
+/*Pre-Adhan Reminder*/
+"pre_adhan_reminder" = "Pre-Adhan Reminder";
+/*Adhan*/
+"adhan" = "Adhan";
+/*提前XX分钟提醒*/
+"minutes_ahead_remind" = "Remind Me %ld mins In Advance";
+/*提前XX分钟提醒(11之后)*/
+"minutes_ahead_remind_more" = "Remind Me %ld mins In Advance";
+/*准时提醒*/
+"remind_on_time" = "Remind Me on time";
+/*延后XX分钟提醒*/
+"minutes_delay_remind" = "Remind Me %ld mins Late";
+/*延后XX分钟提醒(11之后)*/
+"minutes_delay_remind_more" = "Remind Me %ld mins Late";
+/*提醒时间将根据你的设置提前或者延后*/
+"remind_time_select_tip" = "Adjust the reminder according to your need.";
+/*获取XX个分数后解锁这个音频*/
+"remind_ring_unlock_format" = "Achieve %ld points more to unlock this audio";
+/*你现在有多少积分*/
+"remind_ring_have_format" = "You now have %ld points";
+/*unlock*/
+"unlock" = "Unlock";
+/*解锁铃声*/
+"unlock_ring" = "Unlock the Ringtone";
+/*你已经是解锁XXX*/
+"unlock_ring_format" = "%@ has been unlock";
+/*解锁成功*/
+"unlock_successful" = "Successfully Unlocked";
+/*使用*/
+"use_it_now" = "Use it Now";
+/*Quran*/
+"quran" = "Quran";
+/*Duas*/
+"duas" = "Duas";
+/*喜欢*/
+"favorite" = "Favorite";
+/*Notes*/
+"notes" = "Notes";
+/*Highlights*/
+"highlights" = "Highlights";
+/*昵称*/
+"default_nickname" = "Nickname";
+/*名字*/
+"name" = "Name";
+/*生日*/
+"birthday" = "Birthday";
+/*性别*/
+"gender" = "Gender";
+/*介绍*/
+"introduce" = "Introduce";
+/*男*/
+"gender_man" = "Male";
+/*女*/
+"gender_woman" = "Female";
+/*请选择生日*/
+"pls_set_birthday" = "Please Select Your Birthday";
+/*请选择性别*/
+"pls_select_your_gender" = "Please Select Your Gender";
+/*输入名字*/
+"pls_input_your_name" = "Input Your Name";
+/*填入介绍*/
+"pls_input_your_introduce" = "Input Your Introduce";
+/*请输入你的名字*/
+"pls_enter_your_name" = "Please enter your name";
+/*请输入你的介绍*/
+"pls_enter_your_introduce" = "Please enter your Introduce";
+/*设置*/
+"setting" = "Settings";
+/*账号*/
+"account" = "Account";
+/*安全*/
+"security" = "Security";
+/*编辑用户信息*/
+"edit_profile" = "Profile";
+/*账号安全*/
+"account_and_security" = "Account & Security";
+/*Unbound*/
+"unboud" = "Unbound";
+/*Facebook*/
+"facebook" = "Facebook";
+/*谷歌*/
+"google" = "Google";
+/*手机号*/
+"phone_number" = "Phone Number";
+/*密码*/
+"password" = "Password";
+/*删除账号*/
+"delete_account" = "Delete Account";
+/*Feature*/
+"feature" = "Feature";
+/*Prayer*/
+"feature_prayer" = "Prayer";
+/*Quran*/
+"feature_quran" = "Quran";
+/*Duas*/
+"feature_duas" = "Duas";
+/*General*/
+"general" = "General";
+/*Language*/
+"language" = "Language";
+/*清理缓存*/
+"clear_cache" = "Clear Cache";
+/*分享 Qeblty*/
+"share_daleel" = "Share Qeblty with Friends";
+/*反馈*/
+"feedback" = "Feedback";
+/*关于*/
+"about_daleel" = "About Qeblty";
+/*登出*/
+"sign_out" = "Sign out";
+/*登录失败请重试*/
+"auth_failed_pls_try_again" = "Login failed, Please try again.";
+/*无法访问Google服务，请检查网络连接。*/
+"can_not_login_by_google_please_check_network_status" = "Unable to access Google services, Please check your network connection.";
+/*语言*/
+"edit_Language" = "Language";
+/*允许此项设置将重启APP*/
+"applying_this_setting_will_restart_the_app" = "Applying this setting will restart the APP";
+/*版本号*/
+"about_version" = "Version  %@";
+/*用户服务协议*/
+"about_service" = "User Services Agreement";
+/*隐私协议*/
+"about_policy" = "Privacy Policy Terms";
+/*检查更新*/
+"about_update" = "Check for Updates";
+/*新版本*/
+"new_version" = "New Version";
+/*更新*/
+"update" = "Update";
+/*下拉刷新*/
+"srl_header_pulling" = "Pull-to-refresh";
+/*释放刷新*/
+"srl_header_release" = "Please Refresh";
+/*刷新ing*/
+"srl_header_refreshing" = "Refreshing…";
+/*等待加载*/
+"srl_header_loading" = "Loading ...";
+/*刷新成功*/
+"srl_header_finish" = "Successfully Refresh";
+/*刷新失败*/
+"srl_header_failed" = "Refresh Failed";
+/*上次更新时间xxxxxx*/
+"srl_header_update" = "'Last Update' M-d HH:mm";
+/*Swipe down to refresh*/
+"srl_header_secondary" = "Swipe down to refresh";
+/*上拉加在更多*/
+"srl_footer_pulling" = "Pull Up to Load More";
+/*释放加载更多*/
+"srl_footer_release" = "Release to Load More";
+/*加载ing*/
+"srl_footer_loading" = "Loading…";
+/*等待刷新*/
+"srl_footer_refreshing" = "Refreshing…";
+/*加载成功*/
+"srl_footer_finish" = "Successfully Loaded";
+/*加载失败*/
+"srl_footer_failed" = "Load Failed";
+/*没有更多数据*/
+"srl_footer_nothing" = "No More Data";
+/*您还未获得这个勋章*/
+"you_have_not_received_this_medal" = "You have not received this badge";
+/*您已经获得xx次数*/
+"you_have_earned_times" = "You have earned %ld times";
+/*xx祈祷多少秒后开始*/
+"pray_start" = "%@ prayer %@ start";
+/*我的积分*/
+"my_points" = "My Points";
+/*最近（勋章）*/
+"recent" = "Recent";
+/*利雅得 默认定位位置*/
+"riyadh" = "Riyadh";
+/*解锁铃声*/
+"unlock_ringtone" = "Unlock %@";
+/*清理*/
+"clear" = "Clear";
+/*清理缓存提示*/
+"clear_cache_tip" = "Clear the cache of %@ may destory your chat history";
+/*是否退出登录?*/
+"are_you_sure_to_logout" = " Are you sure you want to log out?";
+/*暂不支持账号绑定*/
+"no_support_account_bind" = "The binding feature is not available.";
+/*设置新密码*/
+"set_new_password" = "Set New Password";
+/*设置新密码*/
+"please_set_a_new_login_password_for" = "Please set a new password";
+/*密码修改成功,请重新登录*/
+"change_pwd_success_pls_login" = "Successfully change the password, please log in again.";
+/*当前登陆帐户*/
+"logged_in_account" = "Currently logged in account";
+/*如果你删除当前账号*/
+"if_you_delete_your_current_account" = "If you delete your current account:";
+/*删除我的账户*/
+"delete_my_account" = "Delete My Account";
+/*删除账号提示*/
+"delete_account_tips" = "● All data will be erased and cannot be recovered;\n● After confirming the account deletion, you will be logged out immediately;\n● After confirming the deletion of the account, there will be a 7-day cooling-off period. During the cooling-off period, the account will remain normal, namely:\n    — data will not be erased immediately;\n    — your friends can visit your profile;\n    — During the cooldown period, you can log in again, but if you log in again, you will give up the account deletion operation.\n● Qeblty account deletion is the initiative of the account owner, and Qeblty officials are only responsible for execution. Qeblty is not responsible for any results caused.\n\nKind tips: \n    In order to ensure the safety of your account and avoid unnecessary losses, please keep your account properly and avoid borrowing your account.";
+/*删除账号协议*/
+"delete_account_agreement_terms" = "Delete Account Agreement Terms";
+/*你想要继续执行删除账号操作吗？*/
+"continue_with_the_delete_account_operation_title" = "Are you sure you want  to delete your account ?";
+/*你想要继续执行删除账号操作提示内容*/
+"continue_with_the_delete_account_operation_content" = "If you continue to Qeblty your account, you will be logged out immediately and Qeblty will  delete your account on %@ Any login during  this period will interrupt the account deletion operation!";
+/*非手机号登录不能修改密码*/
+"cant_change_password" = "Account log in through third party platform can't change the password.";
+/*您在[s]的[s]开始了*/
+"location_message_begin" = "it's %@ time at %@";
+/*暂未获取到城市信息*/
+"location_no_get_city" = "Can not detect the city.";
+/*三方登陆解绑三方提示 当前账号不支持解绑绑定*/
+"binding_unbinding_is_not_supported" = "This is the only login method for the current account, and it does not support unbinding for now";
+/*注销冷静期内登陆后提醒*/
+"account_delete_freeze_period_terminated" = "You have submitted a request to delete your account at %@ and the account has entered the freeze period. Depending on the duration of the freeze, the period of the freeze will expire at %@, the account will be permanently deleted. As you go through the login process this time, the freeze period will be terminated. The current deletion process cannot be completed. If you need to continue deleting the account, please do the account deletion process again.";
+/*当前无网络,请检查网络*/
+"noNetCurrent_checkNet" = "No network currently, please check the network";
+/*未绑定手机号状态下点击“password” 提示*/
+"no_bind_phone_cant_change_password" = "Only the account that has set up a mobile phone number to log in can use the function of changing the password";
+/*账号安全页面绑定*/
+"account_binding" = "Binding";
+/*安卓app关闭*/
+"app_quit" = "Press again to exit the program";
+/*指南针准确性*/
+"compass_accuracy" = "Compass Accuracy:\u0020";
+/*指南针准确性高*/
+"compass_accuracy_high" = "High";
+/*指南针准确性中*/
+"compass_accuracy_medium" = "Medium";
+/*指南针准确性低*/
+"compass_accuracy_low" = "Low";
+/*完成*/
+"done" = "Done";
+/*删除账号提醒相关安卓用*/
+"delete_account_content" = "<b><font>If you delete your current account：</font></b> \n
+• All data will be erased and cannot be recovered; \n
+• After confirming the account deletion, you will be logged out immediately; \n
+• After confirming the deletion of the account, there will be a 7-day cooling-off period. During the cooling-off period, the account will remain normal, namely: \n
+\u0020 \u0020 — data will not be erased immediately; \n
+\u0020 \u0020 — your friends can visit your profile; \n
+\u0020 \u0020 — During the cooldown period, you can log in again, but if you log in again, you will give up the account deletion operation. \n
+• Qeblty account deletion is the initiative of the account owner, and Qeblty officials are only responsible for execution. Qeblty is not responsible for any results caused. \n\n
+
+<b><font>Kind tips:</font></b> \n
+\u0020 \u0020 In order to ensure the safety of your account and avoid unnecessary losses, plseae keep your account properly and avoid borrowing your account.";
+/*真主伟大*/
+"alarm_message" = "God is greater, God is greater. God is greater, God is greater";
+/*通知*/
+"service_name" = "Notifiction";
+/*积分*/
+"about_points" = "Points";
+/*星期X数组(安卓数组专用)*/
+"week_array" = "Sun#Mon#Tues#Wed#Thur#Fri#Sat";
+/*月份X数组(安卓数据专用)*/
+"month_array" = "Jan#Feb#Mar#Apr#May#Jun#Jul#Aug#Sept#Oct#Nov#Dec";
+/*祈祷提醒数组（安卓数组专用）*/
+"remind_time_array" = "15 Minutes Ahead Remind#10 Minutes Ahead Remind#5 Minutes Ahead Remind#Remind on time#5 Minutes Delay Remind#10 Minutes Delay Remind#15 Minutes Delay Remind";
+/*登录*/
+"prayer_sign_in" = "Sign in";
+/*祈祷名称Fajr*/
+"fajr" = "Al-Fajr";
+/*祈祷名称sunrise*/
+"sunrise" = "Sunrise";
+/*祈祷名称Dhuhr*/
+"dhuhr" = "Al-Dhuhr";
+/*祈祷名称Asr*/
+"asr" = "Al-Asr";
+/*祈祷名称Maghrib*/
+"maghrib" = "Al-Maghrib";
+/*祈祷名称Isha*/
+"isha" = "Al-Isha";
+/*祈祷设置*/
+"prayer_setting" = "Azan Setting";
+/*用户尚未添加内容*/
+"writed_nothing" = "The content has not been updated.";
+/*拍照*/
+"take_photo" = "Take Photo";
+/*相册*/
+"album" = "Album";
+/*头像不合法*/
+"avatar_illegal" = "The avatar is illegal, please re-upload";
+/*无*/
+"none" = "None";
+/*静默*/
+"silent" = "Silent";
+/*勋章解锁toast 解锁成功*/
+"unlocked" = "Unlocked";
+/*勋章解锁toast 设置成功*/
+"setting_completed" = "Setting completed";
+/*默认铃声名称*/
+"abdul_basit" = "Abdul-Basit";
+/*今天 (日历：跳到今天)*/
+"calendar_to_day" = "Today";
+/*日历标题*/
+"calendar" = "Islamic calendar";
+/*佩戴勋章成功 (勋章详情页 toast)*/
+"wear_medal_succeed" = "Badge Wore";
+/*佩戴勋章失败 (勋章详情页 toast)*/
+"wear_medal_failed" = "Failure to Wear";
+/*佩戴 (勋章详情页)*/
+"wear_medal" = "Wear";
+/*佩戴中(勋章详情页)*/
+"wearing_medal" = "Wearing";
+/*分享 (勋章详情页)*/
+"share_medal" = "Share";
+/*记录 (勋章详情页)*/
+"medal_records" = "Records";
+/*获取时间 (勋章获取纪录页)*/
+"earned_times" = "Earned Time";
+/*时间纪录 (勋章获取纪录页)*/
+"date_records" = "Date Records ";
+/*积分 (勋章获取纪录页)*/
+"points" = "Points";
+/*编辑邀请 (勋章分享页)*/
+"edit_invite" = "Edit Invitation";
+/*[userName] 在 Qeblty 获得了勋章*/
+"invite_you_to_join" = "Win the badge on Qeblty";
+/* 依下方步骤接受挑战(分享海报)*/
+"accept_the_challenge" = "Accept the challenge by :";
+/*1. 扫描二维码 (分享海报)*/
+"scan_qrcode" = "1. Scan the QRcode";
+/*2. 下载 Qeblty (分享海报)*/
+"download_qeblty" = "2. Download Qeblty";
+/*3. 祈祷并取得徽章 (分享海报)*/
+"prayer_and_win_badges" = "3. Prayer and win Badges";
+/*编辑挑战接收者 (海报编辑页)*/
+"edit_invite_name" = "Edit Challenge Receiver";
+/*请输入被邀请者名字 (海报编辑页)*/
+"enter_invite_name" = "Please enter the name of the receiver ";
+/*完成 (海报编辑页)*/
+"completed" = "Completed";
+/*指定由 [s] 参与挑战 (海报编辑完成页)*/
+"point_to_join_chanllenge" = "Points %@ to join the Challenge";
+/*总数 (勋章墙)*/
+"total" = "Total:%@";
+/*当前配戴 (勋章墙)*/
+"current_wear" = "Currently Wear";
+/*尚未获取该勋章  (勋章详情页_未获取状态)*/
+"havent_badge" = "Haven't acquired the badge";
+/*保存成功*/
+"save_succeed" = "Saved";
+/*分享成功*/
+"share_succeed" = "Shared";
+/*分享失败*/
+"share_failed" = "Failure to Share";
+/*取消分享*/
+"cancel_share" = "Canceled";
+/*关闭*/
+"close" = "Close";
+/*输入內容不能为空(海报编辑页)*/
+"cant_be_empty" = "The name cannot be left blank";
+/*勋章*/
+"badges_title" = "Badges";
+/*日期详情(日历点击某一天)*/
+"calendar_date_deatils" = "Date Details";
+/*伊斯兰(日历搜索-日期选择-公历伊斯兰历切换)*/
+"calendar_islamic" = "Hijri";
+/*奖励 (勋章奖励)*/
+"date_deatils_awarded" = "Awarded";
+/*允许Qeblty 获取你的地理位置*/
+"allow_qeblty_to_access_your_location" = "Allow Qeblty to access your location";
+/*为了提供给您祈祷时间*/
+"in_order_to_provide_precise_prayer_time" = "In order to provide precise prayer time";
+/*允许位置访问*/
+"allow_location_access" = "Allow Location Access";
+/*允许Qeblty 给你通知*/
+"allow_qeblty_to_send_you_notifications" = "Allow Qeblty to send you notifications";
+/*为了提醒您祈祷*/
+"in_order_to_remind_you_to_prayer" = "In order to remind you to prayer";
+/*允许通知*/
+"allow_notifications" = "Allow Notifications";
+/*Proceed to Qeblty*/
+"proceed_to_qeblty" = "Proceed to Qeblty";
+/*签到时间*/
+"check_in_time" = "Check In Time";
+/*没签到*/
+"no_check_in" = "No Check In";
+/*东*/
+"compass_e" = "E";
+/*西*/
+"compass_w" = "W";
+/*南*/
+"compass_s" = "S";
+/*北*/
+"compass_n" = "N";
+/*公历(日历搜索-日期选择-公历伊斯兰历切换)*/
+"calendar_gregorian" = "Gregorian";
+/*欢迎来到Qeblty(游客模式)*/
+"welcome_to_qeblty" = "Welcome to Qeblty";
+/*0*/
+"str_zero" = "0";
+/*1*/
+"str_one" = "1";
+/*2*/
+"str_two" = "2";
+/*3*/
+"str_three" = "3";
+/*4*/
+"str_four" = "4";
+/*5*/
+"str_five" = "5";
+/*6*/
+"str_six" = "6";
+/*7*/
+"str_seven" = "7";
+/*8*/
+"str_eight" = "8";
+/*9*/
+"str_nine" = "9";
+/*前去获取*/
+"go_get_badge" = "Acquire Badges";
+/*登陆状态失效（意外登出）*/
+"sign_in_status_invalid" = "Sign In status invalid";
+/*上次使用（上次使用的登陆类型）*/
+"last_used" = "Last Used";
+/*不合并数据*/
+"do_not_merge_data" = "Do not merge data";
+/*合并数据*/
+"merge_data" = "Merge data";
+/*合并规则*/
+"merge_rule" = "Merge Rule";
+/*合并账号数据*/
+"merge_account_data" = "Merge Account Data";
+/*当前登陆的账号[s]有数据，是否合并数据*/
+"merge_data_tip" = "The %@ you logged in already has some data, whether to merge the guest with this account data.";
+/*数据合并完成*/
+"data_merge_completed" = "Data Merge Completed";
+/*你的游客账号数据已经合并到你的账号*/
+"data_merge_completed_content" = "Your visitor data has been merged with your account data";
+/*合并数据详情*/
+"merge_details" = "Merge Details";
+/*一月*/
+"str_januray" = "January";
+/*二月*/
+"str_february" = "February";
+/*三月*/
+"str_march" = "March";
+/*四月*/
+"str_april" = "April";
+/*五月*/
+"str_may" = "May";
+/*六月*/
+"str_june" = "June";
+/* 七月*/
+"str_july" = "July";
+/*八月*/
+"str_august" = "August";
+/*九月*/
+"str_september" = "September";
+/*十月*/
+"str_october" = "October";
+/*十一月*/
+"str_november" = "November";
+/*十二月*/
+"str_december" = "December";
+/*一月缩写*/
+"str_januray_abbr" = "Jan.";
+/*二月缩写*/
+"str_february_abbr" = "Feb.";
+/*三月缩写*/
+"str_march_abbr" = "Mar.";
+/*四月缩写*/
+"str_april_abbr" = "Apr.";
+/*五月缩写*/
+"str_may_abbr" = "May.";
+/*六月缩写*/
+"str_june_abbr" = "Jun.";
+/* 七月缩写*/
+"str_july_abbr" = "Jul.";
+/*八月缩写*/
+"str_august_abbr" = "Aug.";
+/*九月缩写*/
+"str_september_abbr" = "Sept.";
+/*十月缩写*/
+"str_october_abbr" = "Oct.";
+/*十一月缩写*/
+"str_november_abbr" = "Nov.";
+/*十二月缩写*/
+"str_december_abbr" = "Dec.";
+/*尚未获得任何勋章*/
+"profile_badge_havent_badges" = "Haven't acquired any badges";
+/*跳过*/
+"btn_skip" = "Skip";
+/*Complete prayer to win badges*/
+"complete_prayer_to_win_badges" = "Complete prayer to win badges";
+/*Start Qeblty*/
+"start_qeblty" = "Start Qeblty";
+/*保存失败(分享-截图保存没有权限)*/
+"share_failure_to_save" = "Failure to save";
+/*分享失败(ins分享需要相册权限,如果没有权限弹出此文案)*/
+"share_failure_to_share" = "Failure to share";
+/*点击确定按钮获取相册权限(保存失败/ins分享失败 弹窗内容)*/
+"share_failure_to_save_content" = "Please click the confirm button to grant Qeblty access to your photos";
+/*TMR*/
+"str_tmr" = "TMR";
+/*充值*/
+"top_up" = "TOP UP";
+/*每周日*/
+"every_sunday" = "Every Sunday";
+/*每周一*/
+"every_monday" = "Every Monday";
+/*每周二*/
+"every_tuesday" = "Every Tuesday";
+/*每周三*/
+"every_wednesday" = "Every Wednesday";
+/*每周四*/
+"every_thursday" = "Every Thursday";
+/*每周五*/
+"every_friday" = "Every Friday";
+/*每周六*/
+"every_saturday" = "Every Saturday";
+/*每周X 数组 安卓专用*/
+"clock_week_array" = "Every Sunday#Every Monday#Every Tuesday#Every Wednesday#Every Thursday#Every Friday#Every Saturday";
+/*重复*/
+"question_clock_repeat" = "Repeat";
+/*周一简写*/
+"monday_short" = "Mon";
+/*周二简写*/
+"tuesday_short" = "Tue";
+/*周三简写*/
+"wednesday_short" = "Wed";
+/*周四简写*/
+"thursday_short" = "Thur";
+/*周五简写*/
+"friday_short" = "Fri";
+/*周六简写*/
+"saturday_short" = "Sat";
+/*周日简写*/
+"sunday_short" = "Sun";
+
+/*undefined*/
+"invest_rule_title" = "Referral Rules";
+/*undefined*/
+"invest_rule_sub_title" = "How to get a reward ?";
+/*undefined*/
+"step_1" = "Step 1. Share your postcard with your friends";
+/*  */
+"step_2" = "Step 2. Get $1 after 10 users sign up with your postcard, and get another $5 after one of them continually checks in for 31 days.";
+/*undefined*/
+"step_3" = "Step 3. Don't forget to confirm the reward from 1st to 15th of each month.";
+/*undefined*/
+"achievement" = "Achievement";
