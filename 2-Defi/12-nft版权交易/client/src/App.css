@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+:where(.css-dev-only-do-not-override-42nv3w).ant-menu-light,
+:where(.css-dev-only-do-not-override-42nv3w).ant-menu-light>.ant-menu {
+  color: rgba(0, 0, 0, 0.88);
+  background: transparent;
+}
+
+:where(.css-dev-only-do-not-override-42nv3w).ant-menu-horizontal {
+  border-bottom: none;
+}
+
+:where(.css-dev-only-do-not-override-42nv3w).ant-menu {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+
+:where(.css-dev-only-do-not-override-42nv3w).ant-menu .ant-menu-item .ant-menu-item-icon svg,
+:where(.css-dev-only-do-not-override-42nv3w).ant-menu .ant-menu-submenu-title .ant-menu-item-icon svg {
+  background-color: transparent;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}

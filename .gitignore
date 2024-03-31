@@ -1,0 +1,31 @@
+# .gitignore 
+2-Defi/12-nft版权交易/client/dist/ 
+.env*
+
+# dependencies
+2-Defi/12-nft版权交易/client/node_modules
+2-Defi/12-nft版权交易/client/.pnp
+2-Defi/12-nft版权交易/client/.pnp.js
+# chain
+2-Defi/12-nft版权交易/chain/build
+
+# idea
+2-Defi/12-nft版权交易/chain/.idea
+# config
+2-Defi/12-nft版权交易/chain/.aptos
+# testing
+2-Defi/12-nft版权交易/client/coverage
+
+# production
+2-Defi/12-nft版权交易/client/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+2-Defi/12-nft版权交易/client/npm-debug.log*
+2-Defi/12-nft版权交易/client/yarn-debug.log*
+2-Defi/12-nft版权交易/client/yarn-error.log*

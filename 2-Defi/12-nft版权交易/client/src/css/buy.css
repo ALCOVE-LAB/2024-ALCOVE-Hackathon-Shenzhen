@@ -1,0 +1,16 @@
+.container {
+  width: 1200px;
+  margin: 20px auto;
+  columns: 3;
+  column-gap: 20px;
+}
+
+.container .item {
+  width: 100%;
+  break-inside: avoid;
+  margin-bottom: 20px;
+}
+
+.container .item img {
+  width: 100%;
+}
