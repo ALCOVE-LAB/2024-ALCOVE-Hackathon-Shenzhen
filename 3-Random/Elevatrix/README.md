@@ -3,6 +3,6 @@
 ## ELevatrix
 
 - **Code link: [https://github.com/ohdat/aptos-nft](https://github.com/ohdat/aptos-nft)** ;
-- **PowerPoint demo: [PPT](./Elevatrix_Pitch_Deck.pdf)**
+- **PowerPoint demo: [PDF](./Elevatrix_Pitch_Deck.pdf)**
 - **DEMO link :[https://elevatrix.vercel.app](https://elevatrix.vercel.app)** ;
 - **Any other support materials** .
