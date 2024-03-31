@@ -1,0 +1,2 @@
+- git@github.com:Legal-DAO/share-ai-backend.git
+- git@github.com:Legal-DAO/share-ai-front.git
