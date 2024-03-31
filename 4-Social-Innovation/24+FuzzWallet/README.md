@@ -1,8 +1,13 @@
 # Fuzz Wallet
 
-## Repo
+## Repos
 
 [https://github.com/kokotaki126/fuzzwallet](https://github.com/kokotaki126/fuzzwallet)
+[https://github.com/kokotaki126/fuzzwallet-demo-contract](https://github.com/kokotaki126/fuzzwallet-demo-contract)
+
+## Telegram Bot
+
+![](./qrcode.png)
 
 ## Demo
 
