@@ -1,8 +1,0 @@
-${PODS_ROOT}/Target Support Files/Pods-Daleel/Pods-Daleel-resources.sh
-${PODS_CONFIGURATION_BUILD_DIR}/mob_sharesdk/ShareSDK.bundle
-${PODS_ROOT}/mob_sharesdk/ShareSDK/Support/PlatformSDK/FacebookSDK/FacebookSDKStrings.bundle
-${PODS_CONFIGURATION_BUILD_DIR}/mob_sharesdk/ShareSDK_JS_Facebook.bundle
-${PODS_CONFIGURATION_BUILD_DIR}/mob_sharesdk/ShareSDK_JS_Instagram.bundle
-${PODS_CONFIGURATION_BUILD_DIR}/mob_sharesdk/ShareSDK_JS_FacebookMessenger.bundle
-${PODS_CONFIGURATION_BUILD_DIR}/mob_sharesdk/ShareSDK_JS_Twitter.bundle
-${PODS_CONFIGURATION_BUILD_DIR}/mob_sharesdk/ShareSDK_JS_WhatsApp.bundle
