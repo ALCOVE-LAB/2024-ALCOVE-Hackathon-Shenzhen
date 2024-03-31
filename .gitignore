@@ -1,6 +1,7 @@
 # .gitignore 
 2-Defi/12-nft版权交易/client/dist/ 
 .env*
+.gitignore
 
 # dependencies
 2-Defi/12-nft版权交易/client/node_modules
