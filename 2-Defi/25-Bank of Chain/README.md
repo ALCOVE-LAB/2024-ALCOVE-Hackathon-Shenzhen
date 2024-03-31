@@ -2,4 +2,4 @@
 ## Bank of Chain on Aptos
 - Code link: https://github.com/Bank-Of-Chain-On-Aptos ;
 - PowerPoint demo: ./Bank of Chain On Aptos V1.0.pptx; 
-- DEMO link: https://youtu.be/0KfsTljnV6Q ;
+- DEMO link: https://youtu.be/iY_ssz-5OUc ;
